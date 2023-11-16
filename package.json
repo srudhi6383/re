@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "create-react-app": "^5.0.1",
+    "deploy": "^1.0.3",
+    "homepage": "."
+  }
+  
+}
